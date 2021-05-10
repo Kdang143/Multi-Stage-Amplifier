@@ -16,7 +16,7 @@
 
 • Input resistance (at 1 𝑘𝑘𝐻𝐻𝑧𝑧): **around 3000 kΩ**;
 
-• Amplifier type: inverting or non-inverting;
+• Amplifier type: non-inverting;
 
 • Frequency response: **20 Hz to 50 kHz (−3db response)**;
 
