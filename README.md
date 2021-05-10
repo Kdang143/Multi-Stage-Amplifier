@@ -23,8 +23,8 @@
 • Type of transistors: **2 common emitters and 1 common collector**;
 
 **Notes:**
-• The output voltage is free from distortions (clipping, etc.) for 80mVpk-pk with load and 160mVpk-pk with load and without load.
+• The output voltage is free from distortions (clipping, etc.) for 80mVpk-pk with load and 160mVpk-pk without load.
 
 ![40m with load](https://user-images.githubusercontent.com/68084112/117607382-dc232b80-b129-11eb-9c5a-be88b2aa84eb.png)
-![80m with load](https://user-images.githubusercontent.com/68084112/117607396-e1807600-b129-11eb-8878-76f1e08bde55.png)
+
 ![80m without load](https://user-images.githubusercontent.com/68084112/117607394-e1807600-b129-11eb-99cc-67fcea6b8e42.png)
