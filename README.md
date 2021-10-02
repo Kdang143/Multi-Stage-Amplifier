@@ -14,7 +14,7 @@
 
 • Maximum loaded output voltage swing (at 1 𝑘𝐻𝑧 and 𝑅𝐿 = 1 𝑘Ω): **4 V peak to peak**;
 
-• Input resistance (at 1 𝑘𝑘𝐻𝐻𝑧𝑧): **around 3000 kΩ**;
+• Input resistance (at 1 _kHZ_): **around 3000 kΩ**;
 
 • Amplifier type: non-inverting;
 
